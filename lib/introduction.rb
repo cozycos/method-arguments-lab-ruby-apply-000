@@ -5,6 +5,10 @@ def introduction(name)
 end
 
 def introduction(name)
-  puts "Hi, my name is "John"."
+  puts "Hi, my name is #{name}."
 end
-John
+# lib/introduction.rb 
+
+def introduction(name)
+  puts "Hi, my name is #{name}."
+end
