@@ -5,5 +5,5 @@ def introduction(name)
 end
 
 def introduction(name)
-  puts "Hi, my name is #{john}."
+  puts "Hi, my name is "John"."
 end
